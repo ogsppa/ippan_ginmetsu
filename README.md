@@ -17,6 +17,14 @@
 参加条件：銀の黄昏教団を知らない  
 備考：SAN回復シナリオだと思いますが、出目によっては大幅にSAN喪失します  
 
+## 権利表記
+本作は、「株式会社アークライト」及び「株式会社KADOKAWA」が権利を有する『クトゥルフ神話TRPG』シリーズの二次創作物です。
+Call of Cthulhu is copyright ©1981, 2015, 2019 by Chaosium Inc. ;all rights reserved. Arranged by Arclight Inc.
+Call of Cthulhu is a registered trademark of Chaosium Inc.
+PUBLISHED BY KADOKAWA CORPORATION 「クトゥルフ神話TRPG」「新クトゥルフ神話TRPG」
+
+※次のページからネタバレが含まれます。通過済みもしくはKPを行う方のみ閲覧してください。
+
 ## 真相
 ルルイエ浮上まで後一歩と迫ったのは今からちょうど100年前のことである。
 とある探索者グループによってその計画は阻止されてしまい、結果的にはルルイエは今も海の中に沈んだままだ。  
